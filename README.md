@@ -338,7 +338,7 @@ Developer Tooling
 | X                | https://x.com/Lumichandesu                               |
 | Instagram        | https://www.instagram.com/lumichandesu/                  |
 | YouTube — Vlog   | https://www.youtube.com/channel/UC0VfG8ItHFKq-Mv04CgDdRw |
-| YouTube — VTuber | https://www.youtube.com/@Lumichandesu                    |
+| YouTube — VTuber | https://www.youtube.com/@Lumichandesu.                   |
 | Twitch           | https://www.twitch.tv/lumichandesu                       |
 
 ---
