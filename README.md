@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://media.tenor.com/6t5ZQ02F6aoAAAAe/hiura-mihate-i-think-i-turned-my-childhood-friend-into-a-girl.png"
+    src="https://c.tenor.com/6t5ZQ02F6aoAAAAC/tenor.gif"
     width="400"
     alt="Hiura Mihate"
   />
