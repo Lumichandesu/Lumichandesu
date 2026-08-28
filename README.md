@@ -1,6 +1,14 @@
 # 🌸 Hi, I'm Lumi
 
 <p align="center">
+  <img
+    src="https://media.tenor.com/6t5ZQ02F6aoAAAAe/hiura-mihate-i-think-i-turned-my-childhood-friend-into-a-girl.png"
+    width="400"
+    alt="Hiura Mihate"
+  />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Engineering+%7C+Cloud+%7C+Network+%7C+Backend;Bun+%2B+Elysia+Lover+%E2%9D%A4%EF%B8%8F;Building+systems%2C+not+just+interfaces." alt="Typing SVG" />
 </p>
 
