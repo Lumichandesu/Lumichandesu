@@ -273,8 +273,6 @@ Developer Tooling
   />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lumichandesu&theme=github-dark&hide_border=true&mode=daily)](https://git.io/streak-stats)
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lumichandesu&theme=github_dark"
