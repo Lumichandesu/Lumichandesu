@@ -328,6 +328,16 @@ Developer Tooling
   <img src="https://img.shields.io/badge/Twitch-Lumichandesu-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 
+## 🏆 GitHub Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="70" height="70" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="70" height="70" alt="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="70" height="70" alt="Galaxy Brain" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="70" height="70" alt="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="70" height="70" alt="Starstruck" />
+</p>
+
 ---
 
 # 📎 Quick Links
