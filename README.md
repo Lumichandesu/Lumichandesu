@@ -1,12 +1,13 @@
+```markdown
 # 🌸 Hi, I'm Lumi
 
-<p align="center">
+<div align="center">
 
-### Founder of **Yomumi**
+<h3>Founder of Yomumi</h3>
 
-**A next-generation digital web novel & creative platform.**
-
-<br>
+<p>
+A next-generation digital web novel & creative platform.
+</p>
 
 <img
   src="https://c.tenor.com/6t5ZQ02F6aoAAAAC/tenor.gif"
@@ -24,15 +25,13 @@
 <br><br>
 
 <a href="https://github.com/Lumichandesu">
-  <img src="https://skillicons.dev/icons?i=github" width="42" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lumichandesu/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;&nbsp;
 <a href="https://x.com/Lumichandesu">
-  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <br><br>
@@ -41,7 +40,7 @@
 Computer Engineering · Network Engineering · Cloud · Backend · AI · Security
 </sub>
 
-</p>
+</div>
 
 ---
 
@@ -68,28 +67,9 @@ software, infrastructure, and systems with a strong focus on
 ## 💖 Favorite Stack
 
 <p>
-<a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="https://bun.sh/">
-  <img src="https://skillicons.dev/icons?i=bun" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="https://elysiajs.com/">
-  <img src="https://skillicons.dev/icons?i=elysia" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgres" width="52" />
-</a>
-&nbsp;&nbsp;
-<a href="https://redis.io/">
-  <img src="https://skillicons.dev/icons?i=redis" width="52" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts,bun,postgres,redis" height="52" />
+<img src="https://img.shields.io/badge/ElysiaJS-000000?style=for-the-badge&logo=elysia&logoColor=white" height="36" />
 </p>
-
-<br>
 
 ### 🥇 Bun + Elysia
 
@@ -97,42 +77,50 @@ software, infrastructure, and systems with a strong focus on
 <tr>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=ts" width="40" />
+<img src="https://skillicons.dev/icons?i=ts" width="44" />
 
 <br>
+
 <b>TypeScript</b>
 
 <br><br>
+
 ↓
+
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=bun" width="40" />
+<img src="https://skillicons.dev/icons?i=bun" width="44" />
 
 <br>
+
 <b>Bun</b>
 
 <br><br>
+
 ↓
+
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=elysia" width="40" />
-
-<br>
-<b>ElysiaJS</b>
+<img src="https://img.shields.io/badge/ElysiaJS-6E56CF?style=for-the-badge&logo=elysia&logoColor=white" />
 
 <br><br>
+
 ↓
+
 <br><br>
 
 <b>REST · WebSocket · SSE</b>
 
 <br><br>
+
 ↓
+
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,redis" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres,redis" height="44" />
 
 <br>
+
 <b>PostgreSQL · Redis</b>
 
 </td>
@@ -166,10 +154,14 @@ Latency · Throughput · Memory Usage · Concurrency · Observability · Deploym
 ### ⚡ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=bun,elysia,nodejs,express,nestjs" />
+<img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs" />
 </p>
 
-`Bun` · `ElysiaJS` · `Node.js` · `REST API` · `WebSocket` · `SSE` · `JWT`
+<img src="https://img.shields.io/badge/ElysiaJS-6E56CF?style=flat-square&logo=elysia&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/SSE-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 
 ---
 
@@ -191,7 +183,7 @@ Latency · Throughput · Memory Usage · Concurrency · Observability · Deploym
 ### ☁️ Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,kubernetes,githubactions,nginx,linux" />
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure,cloudflare,docker,kubernetes,githubactions,nginx,linux" />
 </p>
 
 `Google Cloud` · `Cloudflare` · `Cloud Run` · `Workers` · `R2`
@@ -208,48 +200,50 @@ Latency · Throughput · Memory Usage · Concurrency · Observability · Deploym
 <img src="https://skillicons.dev/icons?i=linux,docker" />
 </p>
 
-`Cisco` · `VLAN` · `Inter-VLAN Routing` · `NAT / PAT`
-· `DHCP / DNS` · `QoS` · `Firewall`
-
-<br>
-
-`Network Monitoring` · `Infrastructure Troubleshooting`
-· `Traffic Engineering` · `Network Segmentation`
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/GNS3-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/VLAN-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Routing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/NAT%20%2F%20PAT-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/DHCP%20%2F%20DNS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/QoS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Firewall-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/VPN-000000?style=flat-square" />
 
 ---
 
 ### 🔐 Security
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,cloudflare,docker" />
+<img src="https://skillicons.dev/icons?i=cloudflare,linux,docker" />
 </p>
 
-`Argon2id` · `JWT` · `OAuth 2.0` · `RBAC` · `CORS` · `CSRF`
-
-<br>
-
-`Rate Limiting` · `IDOR Prevention` · `Input Validation`
-
-<br>
-
-`Fail-Closed Architecture` · `Credential Isolation`
-· `Authentication & Authorization`
+<img src="https://img.shields.io/badge/Argon2id-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth%202.0-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/RBAC-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/CORS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/CSRF-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/HMAC-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Rate%20Limiting-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/IDOR%20Prevention-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Fail--Closed-000000?style=flat-square" />
 
 ---
 
 ### 🤖 AI & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,docker" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-`Google Gemini` · `AI-assisted Development`
-· `Prompt Engineering`
-
-<br>
-
-`AI Security` · `Translation` · `Proofreading`
-· `Developer Automation`
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Security-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Translation-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Proofreading-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-000000?style=flat-square" />
 
 </div>
 
@@ -270,10 +264,10 @@ Real-time subtitle and translation tooling designed for VTubers and streamers.
 `Real-Time Processing` · `Thai / Japanese / English` · `OBS` · `Low Latency`
 
 <a href="https://github.com/Lumichandesu/vtuber-subtitle-studio">
-  View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+---
 
 ### 🎵 Lumi Discord Bot
 
@@ -284,10 +278,10 @@ Discord bot focused on efficient long-running operation and lightweight runtime 
 `Bun` · `Discord` · `Audio` · `Queue Management` · `Lyrics`
 
 <a href="https://github.com/Lumichandesu/lumi-discord-bot">
-  View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
+---
 
 ### ⚡ Elysia Fast Starter
 
@@ -299,7 +293,7 @@ A backend starter focused on modern TypeScript server development.
 · `WebSocket` · `PostgreSQL` · `Redis` · `Docker`
 
 <a href="https://github.com/Lumichandesu/elysia-fast-starter">
-  View Repository →
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
@@ -366,31 +360,33 @@ internal systems and technical specifications are intentionally private.
 
 # 🔬 Things I Like Exploring
 
-<br>
-
 ### ⚙️ Runtime & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,bun,elysia,nodejs,express,nestjs,deno" />
+<img src="https://skillicons.dev/icons?i=ts,js,bun,nodejs,deno,express,nestjs" />
 </p>
 
-`TypeScript` · `JavaScript` · `Bun` · `ElysiaJS`
-· `Node.js` · `Express` · `NestJS` · `Deno`
+<img src="https://img.shields.io/badge/ElysiaJS-6E56CF?style=flat-square&logo=elysia&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSocket-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/SSE-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/API%20Design-000000?style=flat-square" />
 
 ---
 
 ### 🗄️ Databases & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite,cassandra,kafka" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mysql,mongodb,sqlite,kafka" />
 </p>
 
-`PostgreSQL` · `Redis` · `MySQL` · `MongoDB` · `SQLite`
-
-<br>
-
-`Distributed Data` · `Caching` · `Transactions`
-· `Message Queues` · `Event-driven Systems`
+<img src="https://img.shields.io/badge/Drizzle-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Transactions-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Indexing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Caching-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Idempotency-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Distributed%20Data-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Message%20Queues-000000?style=flat-square" />
 
 ---
 
@@ -400,12 +396,11 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=gcp,aws,azure,cloudflare,docker,kubernetes,terraform,githubactions,nginx" />
 </p>
 
-`Google Cloud` · `AWS` · `Azure` · `Cloudflare`
-
-<br>
-
-`Cloud Run` · `Workers` · `R2` · `Docker`
-· `Kubernetes` · `Terraform` · `GitHub Actions` · `Nginx`
+<img src="https://img.shields.io/badge/Cloud%20Run-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Workers-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/R2-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Infrastructure%20as%20Code-000000?style=flat-square" />
 
 ---
 
@@ -415,13 +410,10 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,windows,docker,bash,powershell" />
 </p>
 
-`Linux` · `Ubuntu` · `Debian` · `Arch`
-· `Windows`
-
-<br>
-
-`Bash` · `PowerShell` · `Docker`
-· `Virtual Machines` · `System Administration`
+<img src="https://img.shields.io/badge/System%20Administration-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Virtual%20Machines-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Process%20Management-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance%20Tuning-000000?style=flat-square" />
 
 ---
 
@@ -431,13 +423,22 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=linux,wireshark" />
 </p>
 
-`Cisco` · `GNS3` · `VLAN` · `Routing`
-· `NAT` · `DHCP` · `DNS`
+<p>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/GNS3-000000?style=flat-square" />
+</p>
 
-<br>
-
-`QoS` · `Firewall` · `VPN`
-· `Network Monitoring` · `Packet Analysis`
+<img src="https://img.shields.io/badge/VLAN-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Inter--VLAN-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Routing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/NAT%20%2F%20PAT-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/DHCP-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/DNS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/QoS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Firewall-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/VPN-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Packet%20Analysis-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Network%20Monitoring-000000?style=flat-square" />
 
 ---
 
@@ -447,18 +448,18 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=cloudflare,linux,docker" />
 </p>
 
-`Authentication` · `Authorization` · `JWT`
-· `OAuth 2.0` · `RBAC`
-
-<br>
-
-`CORS` · `CSRF` · `Rate Limiting`
-· `IDOR Prevention` · `Input Validation`
-
-<br>
-
-`HMAC` · `Argon2id` · `Fail-Closed Design`
-· `Credential Isolation`
+<img src="https://img.shields.io/badge/Authentication-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Authorization-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth%202.0-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/RBAC-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/CORS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/CSRF-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/HMAC-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/IDOR%20Prevention-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Rate%20Limiting-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Input%20Validation-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Fail--Closed-000000?style=flat-square" />
 
 ---
 
@@ -468,17 +469,14 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-`Python` · `PyTorch` · `TensorFlow` · `OpenCV`
-
-<br>
-
-`LLM Systems` · `AI-assisted Development`
-· `Prompt Engineering` · `AI Security`
-
-<br>
-
-`Translation` · `Proofreading`
-· `Text Processing` · `Developer Automation`
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Security-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Translation-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Proofreading-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Text%20Processing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Developer%20Automation-000000?style=flat-square" />
 
 ---
 
@@ -488,13 +486,12 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 </p>
 
-`Prometheus` · `Grafana` · `Elasticsearch`
-· `Metrics` · `Logs` · `Tracing`
-
-<br>
-
-`Monitoring` · `Alerting` · `Performance Analysis`
-· `Distributed Observability`
+<img src="https://img.shields.io/badge/Metrics-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Logs-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Tracing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Monitoring-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Alerting-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance%20Analysis-000000?style=flat-square" />
 
 ---
 
@@ -504,17 +501,12 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 </p>
 
-`Git` · `GitHub` · `GitHub Actions` · `VS Code`
-
-<br>
-
-`Unit Testing` · `Integration Testing`
-· `Security Testing` · `Concurrency Testing`
-
-<br>
-
-`Performance Testing` · `CI Pipelines`
-· `Regression Testing`
+<img src="https://img.shields.io/badge/Unit%20Testing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Integration%20Testing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Security%20Testing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Concurrency%20Testing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Regression%20Testing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Performance%20Testing-000000?style=flat-square" />
 
 ---
 
@@ -524,13 +516,14 @@ internal systems and technical specifications are intentionally private.
 <img src="https://skillicons.dev/icons?i=figma,photoshop,blender" />
 </p>
 
-`Photography` · `Photo Editing` · `Adobe Photoshop`
-· `Lightroom`
-
-<br>
-
-`Figma` · `Visual Design` · `Creative Technology`
-· `ACG`
+<img src="https://img.shields.io/badge/Photography-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Photo%20Editing-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Design-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Creative%20Technology-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/ACG-000000?style=flat-square" />
 
 </div>
 
@@ -574,6 +567,7 @@ Authentication · Authorization · Hardening
 </tr>
 
 <tr>
+
 <td align="center">
 
 ☁️ <b>Scalability</b>
@@ -603,6 +597,7 @@ Transactions · Indexes · Persistence
 Metrics · Logs · Monitoring
 
 </td>
+
 </tr>
 </table>
 
@@ -637,11 +632,11 @@ Metrics · Logs · Monitoring
 ### 💻 Developer
 
 <a href="https://github.com/Lumichandesu">
-  <img src="https://skillicons.dev/icons?i=github" width="42" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/lumichandesu/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br><br>
@@ -649,15 +644,15 @@ Metrics · Logs · Monitoring
 ### 🌐 Social
 
 <a href="https://www.facebook.com/Lumichandesu">
-  <img src="https://skillicons.dev/icons?i=facebook" width="42" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://x.com/Lumichandesu">
-  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/lumichandesu/">
-  <img src="https://skillicons.dev/icons?i=instagram" width="42" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
@@ -665,11 +660,11 @@ Metrics · Logs · Monitoring
 ### 🎥 YouTube
 
 <a href="https://www.youtube.com/channel/UC0VfG8ItHFKq-Mv04CgDdRw">
-  <img src="https://skillicons.dev/icons?i=youtube" width="42" />
+<img src="https://img.shields.io/badge/Vlog-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.youtube.com/@Lumichandesu.">
-  <img src="https://skillicons.dev/icons?i=youtube" width="42" />
+<img src="https://img.shields.io/badge/VTuber-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <br><br>
@@ -677,7 +672,7 @@ Metrics · Logs · Monitoring
 ### 🎮 Streaming
 
 <a href="https://www.twitch.tv/lumichandesu">
-  <img src="https://skillicons.dev/icons?i=twitch" width="42" />
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 </a>
 
 </div>
@@ -705,3 +700,4 @@ Built with curiosity, persistence, and a lot of debugging.
 <b>© 2026 Lumichandesu</b>
 
 </div>
+```
