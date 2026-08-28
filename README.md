@@ -275,7 +275,7 @@ Developer Tooling
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Lumichandesu&theme=github-dark&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Lumichandesu&theme=github-dark&hide_border=true&mode=daily"
     alt="GitHub Streak"
   />
 </p>
