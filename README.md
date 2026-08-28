@@ -1,32 +1,38 @@
-# 🌸 Hi, I'm Lumi
-
 <div align="center">
 
-<img
-src="https://c.tenor.com/6t5ZQ02F6aoAAAAC/tenor.gif"
-width="400"
-alt="Hiura Mihate"
-/>
+# 🌸 Hi, I'm Lumi
+
+### Founder of **Yomumi**
+
+**A next-generation digital web novel & creative platform.**
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Engineering+%7C+Cloud+%7C+Network+%7C+Backend;Bun+%2B+Elysia+Lover+%E2%9D%A4%EF%B8%8F;Building+systems%2C+not+just+interfaces."
+src="https://c.tenor.com/6t5ZQ02F6aoAAAAC/tenor.gif"
+width="420"
+alt="Hiura Mihate"
+/>
+
+<br><br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Engineering+%7C+Cloud+%7C+Network+%7C+Backend;Bun+%2B+Elysia+Lover+%E2%9D%A4%EF%B8%8F;Building+systems%2C+not+just+interfaces.;Performance+%C2%B7+Security+%C2%B7+Reliability+%C2%B7+Scalability"
 alt="Typing SVG"
 />
 
 <br><br>
 
 <a href="https://github.com/Lumichandesu">
-<img src="https://skillicons.dev/icons?i=github" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="42" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lumichandesu/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
 </a>
 &nbsp;&nbsp;
 <a href="https://x.com/Lumichandesu">
-<img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
 </a>
 
 <br><br>
@@ -43,36 +49,15 @@ Computer Engineering · Network Engineering · Cloud · Backend · AI · Securit
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td align="center" width="50%">
+I'm **Lumi (Lumichandesu)**, a Computer Engineering graduate who enjoys building
+software, infrastructure, and systems with a strong focus on
 
-### 🌸 Who I Am
-
-Computer Engineering graduate who enjoys building **software, infrastructure, networking and developer tooling**.
+**performance · reliability · security · scalability**
 
 <br>
 
-I care about:
-
-`Performance` · `Reliability` · `Security` · `Scalability`
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧭 Focus
-
-🌐 Network Engineering
-☁️ Cloud Infrastructure
-⚡ Backend Engineering
-🗄️ Distributed Systems
-🔐 Security Engineering
-🤖 AI & Developer Tooling
-
-</td>
-</tr>
-</table>
+> I enjoy understanding how the entire system works —
+> from the network packet to the application layer.
 
 </div>
 
@@ -82,37 +67,49 @@ I care about:
 
 ## 💖 Favorite Stack
 
+<a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=ts" width="52" />
+</a>
+&nbsp;&nbsp;
 <a href="https://bun.sh/">
-<img src="https://skillicons.dev/icons?i=bun" width="48" />
+  <img src="https://skillicons.dev/icons?i=bun" width="52" />
 </a>
 &nbsp;&nbsp;
 <a href="https://elysiajs.com/">
-<img src="https://skillicons.dev/icons?i=elysia" width="48" />
+  <img src="https://skillicons.dev/icons?i=elysia" width="52" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/">
-<img src="https://skillicons.dev/icons?i=ts" width="48" />
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgres" width="52" />
+</a>
+&nbsp;&nbsp;
+<a href="https://redis.io/">
+  <img src="https://skillicons.dev/icons?i=redis" width="52" />
 </a>
 
+<br><br>
+
+<h3>Bun + Elysia + TypeScript</h3>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<b>TypeScript</b> <br><br>
+↓ <br><br> <b>Bun</b> <br><br>
+↓ <br><br> <b>ElysiaJS</b> <br><br>
+↓ <br><br> <b>REST · WebSocket · SSE</b> <br><br>
+↓ <br><br> <b>PostgreSQL · Redis</b>
+
+</td>
+</tr>
+</table>
+
 <br>
 
-**Bun + Elysia + TypeScript**
-
-```text
-TypeScript
-     ↓
-    Bun
-     ↓
- ElysiaJS
-     ↓
-REST · WebSocket · SSE
-     ↓
-PostgreSQL · Redis
-```
-
-<br>
-
-`Latency` · `Throughput` · `Memory` · `Concurrency`
+<sub>
+Latency · Throughput · Memory Usage · Concurrency · Observability · Deployment
+</sub>
 
 </div>
 
@@ -120,7 +117,9 @@ PostgreSQL · Redis
 
 <div align="center">
 
-## 🧰 Languages
+## 🧰 Languages & Technologies
+
+### 💻 Programming
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css" />
 
@@ -128,29 +127,17 @@ PostgreSQL · Redis
 
 `TypeScript` · `JavaScript` · `Python` · `Dart` · `HTML` · `CSS`
 
-</div>
+### ⚡ Backend
 
----
-
-<div align="center">
-
-## ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=bun,nodejs,elysia,express" />
+<img src="https://skillicons.dev/icons?i=bun,nodejs" />
 
 <br><br>
 
-`REST API` · `WebSocket` · `SSE` · `JWT`
+`Bun` · `ElysiaJS` · `REST API` · `WebSocket` · `SSE` · `JWT`
 
-</div>
+### 🗄️ Database & Storage
 
----
-
-<div align="center">
-
-## 🗄️ Data
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,redis" />
 
 <br><br>
 
@@ -158,87 +145,49 @@ PostgreSQL · Redis
 
 <br>
 
-`ACID` · `Indexing` · `Caching` · `Transactions` · `Idempotency`
+`ACID Transactions` · `Indexing` · `Query Optimization` · `Caching` · `Idempotency`
 
-</div>
+### ☁️ Cloud & Infrastructure
 
----
-
-<div align="center">
-
-## ☁️ Cloud & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,githubactions,linux" />
+<img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,githubactions" />
 
 <br><br>
 
-`Google Cloud` · `Cloud Run` · `Cloudflare Workers` · `R2`
+`Google Cloud` · `Cloudflare` · `Cloud Run` · `Workers` · `R2`
+· `Docker` · `CI/CD`
 
-<br>
-
-`Docker` · `Linux` · `CI/CD`
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Networking
-
-<img src="https://skillicons.dev/icons?i=linux,cisco" />
-
-<br><br>
-
-`Cisco` · `VLAN` · `Inter-VLAN Routing` · `NAT / PAT`
-
-<br>
-
-`DHCP` · `DNS` · `QoS` · `Firewall` · `Monitoring`
-
-</div>
-
----
-
-<div align="center">
-
-## 🔐 Security
+### 🌐 Networking
 
 <img src="https://skillicons.dev/icons?i=linux" />
 
 <br><br>
 
-`Argon2id` · `JWT` · `OAuth 2.0` · `RBAC`
+`Cisco` · `VLAN` · `Inter-VLAN Routing` · `NAT / PAT`
+· `DHCP / DNS` · `QoS` · `Firewall`
 
 <br>
 
-`CORS` · `CSRF` · `Rate Limiting`
+`Network Monitoring` · `Infrastructure Troubleshooting`
+
+### 🔐 Security
 
 <br>
 
-`IDOR Prevention` · `Input Validation` · `Fail-Closed`
-
-</div>
-
----
-
-<div align="center">
-
-## 🤖 AI
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br><br>
-
-`Google Gemini` · `Prompt Engineering`
+`Argon2id` · `JWT` · `OAuth 2.0` · `RBAC` · `CORS` · `CSRF`
 
 <br>
 
-`AI-assisted Development` · `AI Security`
+`Rate Limiting` · `IDOR Prevention` · `Input Validation` · `Fail-Closed Architecture`
+
+### 🤖 AI
 
 <br>
 
-`Translation` · `Proofreading` · `Automation`
+`Google Gemini` · `AI-assisted Development` · `Prompt Engineering`
+
+<br>
+
+`AI Security` · `Translation` · `Proofreading` · `Developer Automation`
 
 </div>
 
@@ -248,140 +197,67 @@ PostgreSQL · Redis
 
 ## 🚀 Selected Projects
 
-<table>
-<tr>
+</div>
 
-<td align="center" width="50%">
+### 🎙️ VTuber Real-Time OBS AI Subtitle & Live Translator
 
-### 🎙️ VTuber Subtitle Studio
+Real-time subtitle and translation tooling designed for VTubers and streamers.
 
-<img src="https://skillicons.dev/icons?i=ts,obsidian" />
+**Focus**
 
-<br><br>
-
-Real-time subtitle and translation tooling for VTubers and streamers.
-
-<br><br>
-
-`Thai` · `Japanese` · `English`
-
-<br>
-
-`Real-Time` · `Low Latency` · `OBS`
-
-<br><br>
+`Real-Time Processing` · `Thai / Japanese / English` · `OBS` · `Low Latency`
 
 <a href="https://github.com/Lumichandesu/vtuber-subtitle-studio">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  View Repository →
 </a>
 
-</td>
-
-<td align="center" width="50%">
+<br><br>
 
 ### 🎵 Lumi Discord Bot
 
-<img src="https://skillicons.dev/icons?i=bun,discord" />
+Discord bot focused on efficient long-running operation and lightweight runtime usage.
 
-<br><br>
+**Focus**
 
-Lightweight Discord bot designed for long-running operation.
-
-<br><br>
-
-`Audio` · `Queues` · `Lyrics`
-
-<br>
-
-`Bun` · `Discord`
-
-<br><br>
+`Bun` · `Discord` · `Audio` · `Queue Management` · `Lyrics`
 
 <a href="https://github.com/Lumichandesu/lumi-discord-bot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  View Repository →
 </a>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
+<br><br>
 
 ### ⚡ Elysia Fast Starter
 
-<img src="https://skillicons.dev/icons?i=ts,bun,postgres,redis,docker" />
+A backend starter focused on modern TypeScript server development.
 
-<br><br>
+**Stack**
 
-Production-oriented TypeScript backend starter.
-
-<br><br>
-
-`JWT` · `Argon2id` · `WebSocket`
-
-<br>
-
-`PostgreSQL` · `Redis` · `Docker`
-
-<br><br>
+`Bun` · `ElysiaJS` · `JWT` · `Argon2id`
+· `WebSocket` · `PostgreSQL` · `Redis` · `Docker`
 
 <a href="https://github.com/Lumichandesu/elysia-fast-starter">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  View Repository →
 </a>
-
-</td>
-
-<td align="center">
-
-### 🌐 Systems
-
-<img src="https://skillicons.dev/icons?i=gcp,cloudflare,linux,docker" />
-
-<br><br>
-
-Infrastructure and backend systems built around:
-
-<br><br>
-
-`Performance`
-
-`Reliability`
-
-`Observability`
-
-`Security`
-
-`Scalability`
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
 <div align="center">
 
-## 🌸 Yomumi
+## 🌸 Founder & CEO
 
-### よむみ
+### Yomumi — よむみ
 
 **Founder & CEO**
 
-<br>
-
-Private project focused on building a modern ecosystem around:
-
-`Digital Content` · `Creators` · `Community`
+A private project focused on building a next-generation
+digital web novel and creative ecosystem.
 
 <br>
 
 <sub>
-Source code, architecture, infrastructure and internal systems are intentionally private.
+Project source code, architecture, infrastructure,
+internal systems and technical specifications are intentionally private.
 </sub>
 
 </div>
@@ -392,33 +268,55 @@ Source code, architecture, infrastructure and internal systems are intentionally
 
 ## 🧠 Engineering Mindset
 
-<table>
+<table align="center">
 <tr>
+<td align="center">
 
-<td align="center">📏<br><b>Measure</b></td>
-<td align="center">🔎<br><b>Understand</b></td>
-<td align="center">📐<br><b>Design</b></td>
-<td align="center">⚙️<br><b>Implement</b></td>
+<b>Measure</b> <br>↓ <br> <b>Understand</b> <br>↓ <br> <b>Design</b> <br>↓ <br> <b>Implement</b> <br>↓ <br> <b>Test</b> <br>↓ <br> <b>Observe</b> <br>↓ <br> <b>Optimize</b> <br>↓ <br> <b>Harden</b>
 
-</tr>
-
-<tr>
-
-<td align="center">🧪<br><b>Test</b></td>
-<td align="center">📊<br><b>Observe</b></td>
-<td align="center">🚀<br><b>Optimize</b></td>
-<td align="center">🔐<br><b>Harden</b></td>
-
+</td>
 </tr>
 </table>
 
 <br>
 
-`Latency` · `Throughput` · `Memory` · `CPU`
+**Latency · Throughput · Memory · CPU · Reliability · Security · Scalability · Cost**
 
-<br>
+</div>
 
-`Reliability` · `Security` · `Scalability` · `Cost`
+---
+
+<div align="center">
+
+## 🔬 Things I Like Exploring
+
+<img src="https://skillicons.dev/icons?i=ts,bun,python,postgres,redis,docker,gcp,cloudflare,linux" />
+
+<br><br>
+
+`High-performance TypeScript`
+
+`Bun Runtime`
+
+`ElysiaJS`
+
+`Distributed Systems`
+
+`Cloud Architecture`
+
+`Network Engineering`
+
+`Database Design`
+
+`Redis`
+
+`Observability`
+
+`Application Security`
+
+`AI Systems`
+
+`Developer Tooling`
 
 </div>
 
@@ -430,7 +328,7 @@ Source code, architecture, infrastructure and internal systems are intentionally
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumichandesu&theme=github_dark"
-alt="GitHub Profile"
+alt="GitHub Profile Details"
 />
 
 <br><br>
@@ -446,41 +344,97 @@ alt="Top Languages"
 
 <div align="center">
 
-## 🌐 Connect
+## 🌐 Connect With Me
+
+### 💻 Developer
 
 <a href="https://github.com/Lumichandesu">
-<img src="https://skillicons.dev/icons?i=github" width="36" />
+  <img src="https://skillicons.dev/icons?i=github" width="42" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lumichandesu/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="36" />
-</a>
-&nbsp;
-<a href="https://x.com/Lumichandesu">
-<img src="https://skillicons.dev/icons?i=twitter" width="36" />
-</a>
-&nbsp;
-<a href="https://www.facebook.com/Lumichandesu">
-<img src="https://skillicons.dev/icons?i=facebook" width="36" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/lumichandesu/">
-<img src="https://skillicons.dev/icons?i=instagram" width="36" />
-</a>
-&nbsp;
-<a href="https://www.twitch.tv/lumichandesu">
-<img src="https://skillicons.dev/icons?i=twitch" width="36" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
 </a>
 
-<br><br>
+### 🌐 Social
+
+<a href="https://www.facebook.com/Lumichandesu">
+  <img src="https://skillicons.dev/icons?i=facebook" width="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/Lumichandesu">
+  <img src="https://skillicons.dev/icons?i=twitter" width="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/lumichandesu/">
+  <img src="https://skillicons.dev/icons?i=instagram" width="42" />
+</a>
+
+### 🎥 YouTube
 
 <a href="https://www.youtube.com/channel/UC0VfG8ItHFKq-Mv04CgDdRw">
-<img src="https://skillicons.dev/icons?i=youtube" width="36" />
+  <img src="https://skillicons.dev/icons?i=youtube" width="42" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/@Lumichandesu.">
-<img src="https://skillicons.dev/icons?i=youtube" width="36" />
+  <img src="https://skillicons.dev/icons?i=youtube" width="42" />
 </a>
+
+### 🎮 Streaming
+
+<a href="https://www.twitch.tv/lumichandesu">
+  <img src="https://skillicons.dev/icons?i=twitch" width="42" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📎 Quick Links
+
+<table align="center">
+<tr>
+<td><b>GitHub</b></td>
+<td><a href="https://github.com/Lumichandesu">Lumichandesu</a></td>
+</tr>
+
+<tr>
+<td><b>LinkedIn</b></td>
+<td><a href="https://www.linkedin.com/in/lumichandesu/">Lumichandesu</a></td>
+</tr>
+
+<tr>
+<td><b>Facebook</b></td>
+<td><a href="https://www.facebook.com/Lumichandesu">Lumichandesu</a></td>
+</tr>
+
+<tr>
+<td><b>X</b></td>
+<td><a href="https://x.com/Lumichandesu">@Lumichandesu</a></td>
+</tr>
+
+<tr>
+<td><b>Instagram</b></td>
+<td><a href="https://www.instagram.com/lumichandesu/">@Lumichandesu</a></td>
+</tr>
+
+<tr>
+<td><b>YouTube — Vlog</b></td>
+<td><a href="https://www.youtube.com/channel/UC0VfG8ItHFKq-Mv04CgDdRw">Vlog Channel</a></td>
+</tr>
+
+<tr>
+<td><b>YouTube — VTuber</b></td>
+<td><a href="https://www.youtube.com/@Lumichandesu.">VTuber Channel</a></td>
+</tr>
+
+<tr>
+<td><b>Twitch</b></td>
+<td><a href="https://www.twitch.tv/lumichandesu">Lumichandesu</a></td>
+</tr>
+</table>
 
 </div>
 
@@ -498,10 +452,12 @@ alt="Top Languages"
 
 <br>
 
-<sub>Built with curiosity, persistence, and a lot of debugging.</sub>
+<sub>
+Built with curiosity, persistence, and a lot of debugging.
+</sub>
 
 <br><br>
 
-<sub>© 2026 Lumichandesu</sub>
+<b>© 2026 Lumichandesu</b>
 
 </div>
