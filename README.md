@@ -316,7 +316,7 @@ Developer Tooling
 
 **VTuber Channel**
 
-<a href="https://www.youtube.com/@Lumichandesu">
+<a href="https://www.youtube.com/@Lumichandesu.">
   <img src="https://img.shields.io/badge/YouTube-VTuber_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
