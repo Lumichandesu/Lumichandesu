@@ -354,12 +354,6 @@ Developer Tooling
 > **Then keep improving them.**
 
 <p align="center">
-  <a href="https://github.com/Lumichandesu?tab=achievements">
-    <img src="https://img.shields.io/badge/🏆%20GitHub-Achievements-FFD700?style=for-the-badge" alt="GitHub Achievements" />
-  </a>
-</p>
-
-<p align="center">
   <sub>Built with curiosity, persistence, and a lot of debugging.</sub>
 </p>
 
