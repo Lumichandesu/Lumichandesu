@@ -1,510 +1,189 @@
 <h1 align="center">🌸 Hi, I'm Lumi</h1>
 
 <p align="center">
-  <strong>Founder of Yomumi</strong> · Computer Engineering · Network · Cloud · Backend · AI · Security
+  <strong>Founder of Yomumi · Computer Engineering Graduate</strong><br />
+  Network &amp; Cloud · Backend Engineering · AI &amp; Creator Tools
 </p>
 
 <p align="center">
-  <em>Building systems, not just interfaces.</em>
+  <em>Every story begins with a dream.</em><br />
+  <sub>ทุกเรื่องราว ล้วนเริ่มต้นจากความฝัน · すべての物語は、ひとつの夢から始まる。</sub>
 </p>
 
 <p align="center">
-  <img
-    src="https://c.tenor.com/6t5ZQ02F6aoAAAAC/tenor.gif"
-    width="400"
-    alt="Hiura Mihate"
-  />
+  <img src="https://c.tenor.com/6t5ZQ02F6aoAAAAC/tenor.gif" width="320" alt="Hiura Mihate waving hello" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Founder+of+Yomumi;Computer+Engineering+%7C+Cloud+%7C+Network+%7C+Backend;Bun+%2B+Elysia+Lover+%E2%9D%A4%EF%B8%8F;Performance+%C2%B7+Reliability+%C2%B7+Security;Building+systems%2C+not+just+interfaces." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=C6A0F6&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=From+network+packets+to+creative+platforms;Bun+%2B+Elysia+Lover;Building+tools+for+creators;Performance+%C2%B7+Reliability+%C2%B7+Security" width="640" alt="From network packets to creative platforms. Bun + Elysia lover. Building tools for creators." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Lumichandesu">
-    <img src="https://img.shields.io/badge/GitHub-Lumichandesu-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lumichandesu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lumichandesu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Lumichandesu">
-    <img src="https://img.shields.io/badge/X-@Lumichandesu-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌸 About Me
-
-I'm **Lumi (Lumichandesu)**, a **Computer Engineering graduate** and the **Founder of Yomumi**, a next-generation digital web novel and creative platform.
-
-I enjoy working across the entire technology stack — from **network infrastructure and cloud deployment** to **backend architecture, databases, distributed systems, security, and AI tooling**.
-
-<p align="center">
-  <strong>Network → Infrastructure → Backend → Database → Distributed Systems → AI → User Experience</strong>
-</p>
-
-### ✦ What I care about
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Latency-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Throughput-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Memory-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/CPU-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reliability-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalability-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cost-222222?style=flat-square" />
-</p>
-
-> I enjoy understanding how the entire system works — from the network packet all the way to the application layer.
-
----
-
-# 💖 Favorite Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,postgres,redis,docker,cloudflare,gcp,linux,githubactions" />
-</p>
-
-<h3 align="center">🥇 Bun + Elysia</h3>
-
-<p align="center">
-  <strong>Bun & Elysia Lover ❤️</strong>
+  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-Visit_my_platform-F5BDE6?style=for-the-badge&amp;logo=readme&amp;logoColor=181825" alt="Visit Yomumi" /></a>
+  <a href="https://github.com/Lumichandesu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-C6A0F6?style=for-the-badge&amp;logo=github&amp;logoColor=181825" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-91D7E3?style=for-the-badge" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bun-Lover-141414?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elysia-Lover-6E56CF?style=for-the-badge" />
-</p>
-
-<p align="center">
-  I especially enjoy <strong>Bun + ElysiaJS</strong> for modern TypeScript backend development.
-</p>
-
-<p align="center">
-  <strong>TypeScript</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Bun</strong>
-  <br />
-  ↓
-  <br />
-  <strong>ElysiaJS</strong>
-  <br />
-  ↓
-  <br />
-  <strong>REST · WebSocket · SSE</strong>
-  <br />
-  ↓
-  <br />
-  <strong>PostgreSQL · Redis</strong>
-</p>
-
-<p align="center">
-  <sub>Designed around low latency, clean APIs, concurrency, observability and efficient resource usage.</sub>
+  <a href="#apps--projects">Apps &amp; projects</a> ·
+  <a href="#about-me">About me</a> ·
+  <a href="#tech-stack">Tech stack</a> ·
+  <a href="#github-activity">GitHub activity</a> ·
+  <a href="#find-me-online">Find me online</a>
 </p>
 
 ---
 
-# 🧰 Languages & Technologies
+## Apps & Projects
 
-## 💻 Programming Languages
+Tools for creators, communities, and developers — plus the platform I'm building.
+
+### 🌸 Yomumi · よむみ
+
+**Founder & CEO** · A digital web novel and creative platform bringing together stories, creators, and community.
+
+`Digital publishing` · `Creative tools` · `Community` · `Creator economy`
+
+**[Visit Yomumi →](https://www.yomumi.moe/)**
+
+<sub>Yomumi's source code, architecture, infrastructure, and internal technical specifications are private.</sub>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ VTuber Subtitle Studio</h3>
+      <p>Live subtitles and translation for VTubers and streamers, with an OBS browser overlay.</p>
+      <p><code>TypeScript</code> <code>Bun</code> <code>OBS</code> <code>AI</code></p>
+      <p><a href="https://github.com/Lumichandesu/vtuber-subtitle-studio"><strong>Explore the studio →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 Lumi Discord Bot</h3>
+      <p>A Discord music bot with audio playback, queue management, and lyrics for your community.</p>
+      <p><code>TypeScript</code> <code>Bun</code> <code>Discord</code> <code>Audio</code></p>
+      <p><a href="https://github.com/Lumichandesu/lumi-discord-bot"><strong>Meet the bot →</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Elysia Fast Starter</h3>
+      <p>A Bun + Elysia backend starter with authentication, WebSockets, and Drizzle ORM. The public Community Edition uses SQLite.</p>
+      <p><code>Bun</code> <code>Elysia</code> <code>Drizzle</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/Lumichandesu/elysia-fast-starter"><strong>Build from the starter →</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ SkyChauffeur</h3>
+      <p>An aircraft borrowing and fleet management app with request, approval, and return workflows.</p>
+      <p><code>Dart</code> <code>Flutter</code> <code>Express</code> <code>MySQL</code></p>
+      <p><a href="https://github.com/Lumichandesu/plane_borrow"><strong>Explore the app →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,html,css" />
+  <a href="https://github.com/Lumichandesu?tab=repositories"><strong>Browse all public repositories →</strong></a>
+</p>
+
+## About Me
+
+I'm **Lumi (Lumichandesu)**, based in **Bangkok, Thailand**. I enjoy understanding how an entire system works, from the network packet to the application layer.
+
+- 🌐 **Network & infrastructure:** routing, switching, Linux, cloud deployment, and troubleshooting.
+- ⚡ **Backend & data:** TypeScript APIs, databases, caching, real-time communication, and distributed systems.
+- 🔐 **Security & reliability:** access control, validation, observability, and careful failure handling.
+- 🎙️ **Creative technology:** streaming tools, translation, AI-assisted workflows, and developer automation.
+
+> Build things that are useful. Make them fast. Make them reliable. Make them secure. Then keep improving them.
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,bun,nodejs,postgres,redis,docker,linux,cloudflare,gcp&amp;perline=6" alt="TypeScript, JavaScript, Python, Dart, Bun, Node.js, PostgreSQL, Redis, Docker, Linux, Cloudflare, and Google Cloud" />
 </p>
 
 <p align="center">
-  <code>TypeScript</code> · <code>JavaScript</code> · <code>Python</code> · <code>Dart</code> · <code>HTML</code> · <code>CSS</code>
+  <img src="https://img.shields.io/badge/Bun-Lover-F5BDE6?style=for-the-badge&amp;logo=bun&amp;logoColor=181825" alt="Bun lover" />
+  <img src="https://img.shields.io/badge/Elysia-Lover-C6A0F6?style=for-the-badge" alt="Elysia lover" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-91D7E3?style=for-the-badge&amp;logo=cisco&amp;logoColor=181825" alt="Cisco networking" />
 </p>
 
----
+My favorite backend combination is **TypeScript + Bun + ElysiaJS**, with a focus on clear APIs, concurrency, efficient resource usage, and observability.
 
-## ⚡ Backend Engineering
+| Area | Technologies & interests |
+| :--- | :--- |
+| **Languages** | TypeScript · JavaScript · Python · Dart · HTML · CSS |
+| **Backend** | Bun · ElysiaJS · Node.js · REST APIs · WebSocket · SSE |
+| **Data & storage** | PostgreSQL · Redis · SQLite · Drizzle ORM · Cloudflare R2 |
+| **Cloud & delivery** | Google Cloud · Cloud Run · Cloudflare Workers · Docker · GitHub Actions · Linux |
+| **Networking** | Cisco · VLAN / Inter-VLAN routing · NAT / PAT · DHCP · DNS · QoS · Firewalls |
+| **AI & automation** | Google Gemini · AI-assisted development · Translation · Proofreading · Developer tooling |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,nodejs,ts" />
-</p>
+<details>
+<summary><strong>🔎 More about my engineering interests</strong></summary>
 
-<p align="center">
-  <code>Bun</code> · <code>ElysiaJS</code> · <code>REST API</code> · <code>WebSocket</code> · <code>SSE</code> · <code>JWT</code>
-</p>
+### Security
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Architecture-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Concurrency-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Idempotency-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Caching-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Observability-222222?style=flat-square" />
-</p>
+`Argon2id` · `JWT` · `OAuth 2.0` · `RBAC` · `CORS` · `CSRF protection` · `IDOR prevention` · `Input validation` · `Rate limiting` · `Fail-closed architecture`
 
----
+### Data & Performance
 
-## 🗄️ Database & Storage
+`ACID transactions` · `Indexing` · `Query optimization` · `Caching` · `Atomic operations` · `Idempotency` · `Consistency` · `Concurrency` · `Distributed systems`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis" />
-</p>
+I care about latency, throughput, memory, CPU usage, reliability, scalability, security, and operating cost.
 
-<p align="center">
-  <code>PostgreSQL</code> · <code>Redis</code> · <code>Drizzle ORM</code> · <code>Cloudflare R2</code>
-</p>
+### Tools I Use & Explore
 
-<p align="center">
-  <code>ACID Transactions</code> · <code>Indexing</code> · <code>Query Optimization</code> · <code>Caching</code>
-  <br />
-  <code>Atomic Operations</code> · <code>Idempotency</code> · <code>Consistency</code>
-</p>
+`Git` · `GitHub` · `VS Code` · `Android Studio` · `Figma` · `Adobe Photoshop` · `FastAPI` · `nginx` · `Prometheus` · `Grafana` · `GNS3`
 
----
+### How I Approach Engineering
 
-## ☁️ Cloud & Infrastructure
+**Measure → Understand → Design → Implement → Test → Observe → Optimize → Harden**
+
+</details>
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,cloudflare,docker,githubactions,linux" />
-</p>
-
-<p align="center">
-  <code>Google Cloud</code> · <code>Cloud Run</code> · <code>Cloudflare Workers</code>
-  <br />
-  <code>R2</code> · <code>Docker</code> · <code>CI/CD</code> · <code>Linux</code>
-</p>
-
----
-
-## 🌐 Networking
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/NAT%20%2F%20PAT-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/DHCP-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/DNS-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/QoS-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firewall-222222?style=flat-square" />
-</p>
-
-<p align="center">
-  VLAN / Inter-VLAN Routing · NAT / PAT · DHCP · DNS · QoS
-  <br />
-  Firewall · Network Monitoring · Infrastructure Troubleshooting
-</p>
-
----
-
-## 🔐 Security Engineering
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/RBAC-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/CORS-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSRF-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Argon2id-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rate%20Limiting-222222?style=flat-square" />
-</p>
-
-<p align="center">
-  <code>Argon2id</code> · <code>JWT</code> · <code>OAuth 2.0</code> · <code>RBAC</code> · <code>CORS</code>
-  <br />
-  <code>CSRF Protection</code> · <code>IDOR Prevention</code> · <code>Input Validation</code>
-  <br />
-  <code>Rate Limiting</code> · <code>Fail-Closed Architecture</code>
-</p>
-
----
-
-## 🤖 AI & Developer Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-222222?style=flat-square" />
-</p>
-
-<p align="center">
-  AI-assisted Development · Prompt Engineering · AI Security
-  <br />
-  Translation · Proofreading · Developer Automation
-</p>
-
----
-
-# 🚀 Selected Projects
-
-## 🎙️ VTuber Real-Time OBS AI Subtitle & Live Translator
-
-Real-time subtitle and translation tooling designed for VTubers and streamers.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Real--Time-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Thai-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Japanese-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/English-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/OBS-302E31?style=flat-square&logo=obsstudio&logoColor=white" />
-</p>
-
-**Focus**
-
-`Real-Time Processing` · `Low Latency` · `Streaming` · `Thai / Japanese / English`
-
-🔗 [View Repository](https://github.com/Lumichandesu/vtuber-subtitle-studio)
-
----
-
-## 🎵 Lumi Discord Bot
-
-Discord bot focused on efficient long-running operation and a lightweight runtime footprint.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bun,ts" />
-</p>
-
-**Focus**
-
-`Bun` · `Discord` · `Audio` · `Queue Management` · `Lyrics`
-
-🔗 [View Repository](https://github.com/Lumichandesu/lumi-discord-bot)
-
----
-
-## ⚡ Elysia Fast Starter
-
-Backend starter focused on modern TypeScript server development.
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,bun,postgres,redis,docker" />
-</p>
-
-**Stack**
-
-`Bun` · `ElysiaJS` · `JWT` · `Argon2id` · `WebSocket`
-· `PostgreSQL` · `Redis` · `Docker`
-
-🔗 [View Repository](https://github.com/Lumichandesu/elysia-fast-starter)
-
----
-
-# 🌸 Yomumi — Founder & CEO
-
-## よむみ
-
-<p align="center">
-  <strong>Founder & CEO</strong>
-</p>
-
-Yomumi is a **private next-generation digital web novel and creative platform**.
-
-The project focuses on combining:
-
-<p align="center">
-  <code>Digital Publishing</code> · <code>Creative Tools</code> · <code>Community</code>
-  <br />
-  <code>Creator Economy</code> · <code>AI Tooling</code> · <code>Scalable Infrastructure</code>
-</p>
-
-> Project source code, architecture, infrastructure, internal systems, and technical specifications are intentionally private.
-
----
-
-# 🧠 Engineering Mindset
-
-<p align="center">
-  <strong>Measure</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Understand</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Design</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Implement</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Test</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Observe</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Optimize</strong>
-  <br />
-  ↓
-  <br />
-  <strong>Harden</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Latency-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Throughput-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Memory-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/CPU-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reliability-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalability-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cost-222222?style=flat-square" />
-</p>
-
----
-
-# 🔬 Things I Like Exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,bun,nodejs,linux,docker,postgres,redis,gcp,cloudflare,github,githubactions" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ElysiaJS-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNS3-222222?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-</p>
-
-<p align="center">
-  <code>High-Performance TypeScript</code> · <code>Bun Runtime</code> · <code>ElysiaJS</code>
-  <br />
-  <code>Distributed Systems</code> · <code>Cloud Architecture</code> · <code>Network Engineering</code>
-  <br />
-  <code>Database Design</code> · <code>Redis</code> · <code>Observability</code>
-  <br />
-  <code>Application Security</code> · <code>AI Systems</code> · <code>Developer Tooling</code>
-  <br />
-  <code>Performance Engineering</code> · <code>Automation</code> · <code>Infrastructure</code>
-</p>
-
----
-
-# 🛠️ Tools I Touch
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,photoshop,linux,docker" />
-</p>
-
-<p align="center">
-  <code>Git</code> · <code>GitHub</code> · <code>VS Code</code> · <code>Android Studio</code>
-  <br />
-  <code>Figma</code> · <code>Adobe Photoshop</code> · <code>Docker</code> · <code>Linux</code>
-</p>
-
----
-
-# 📊 GitHub
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumichandesu&theme=github_dark"
-    alt="GitHub Profile Details"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lumichandesu&theme=github_dark"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🌐 Socials & Contact
-
-<p align="center">
-  <a href="https://github.com/Lumichandesu">
-    <img src="https://img.shields.io/badge/GitHub-Lumichandesu-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lumichandesu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lumichandesu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/Lumichandesu?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumichandesu&amp;theme=github_dark" width="700" alt="Lumi's GitHub contribution and profile summary" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/Lumichandesu">
-    <img src="https://img.shields.io/badge/Facebook-Lumichandesu-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://x.com/Lumichandesu">
-    <img src="https://img.shields.io/badge/X-@Lumichandesu-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/lumichandesu/">
-    <img src="https://img.shields.io/badge/Instagram-@Lumichandesu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lumichandesu&amp;theme=github_dark" width="340" alt="Languages across Lumi's public repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumichandesu&amp;theme=github_dark" width="340" alt="Lumi's GitHub statistics" />
 </p>
 
-## 🎥 YouTube
-
 <p align="center">
-  <a href="https://www.youtube.com/channel/UC0VfG8ItHFKq-Mv04CgDdRw">
-    <img src="https://img.shields.io/badge/YouTube-Vlog_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@Lumichandesu.">
-    <img src="https://img.shields.io/badge/YouTube-VTuber_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  <sub>Cards are provided by GitHub Profile Summary Cards and may take time to refresh.</sub><br />
+  <a href="https://github.com/Lumichandesu?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/Lumichandesu?tab=stars">Stars &amp; inspiration</a>
 </p>
 
-## 🎮 Streaming
+## Find Me Online
 
 <p align="center">
-  <a href="https://www.twitch.tv/lumichandesu">
-    <img src="https://img.shields.io/badge/Twitch-Lumichandesu-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
+  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-F5BDE6?style=for-the-badge&amp;logo=readme&amp;logoColor=181825" alt="Yomumi website" /></a>
+  <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/Lumichandesu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/Lumichandesu"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/lumichandesu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
 </p>
 
----
-
-# 📎 Quick Links
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC0VfG8ItHFKq-Mv04CgDdRw"><img src="https://img.shields.io/badge/YouTube-Vlogs-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube vlog channel" /></a>
+  <a href="https://www.youtube.com/@Lumichandesu."><img src="https://img.shields.io/badge/YouTube-VTuber-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube VTuber channel" /></a>
+  <a href="https://www.twitch.tv/lumichandesu"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white" alt="Twitch streams" /></a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/Lumichandesu">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/lumichandesu/">LinkedIn</a>
-  ·
-  <a href="https://www.facebook.com/Lumichandesu">Facebook</a>
-  ·
-  <a href="https://x.com/Lumichandesu">X</a>
-  ·
-  <a href="https://www.instagram.com/lumichandesu/">Instagram</a>
-  ·
-  <a href="https://www.twitch.tv/lumichandesu">Twitch</a>
+  <a href="https://www.linkedin.com/in/lumichandesu/">Professional connections</a> ·
+  <a href="https://www.youtube.com/@Lumichandesu.">VTuber channel</a> ·
+  <a href="https://www.twitch.tv/lumichandesu">Live streams</a>
 </p>
 
 ---
 
-# 🌙 Personal Motto
-
 <p align="center">
-
-> **Build things that are useful.**
-> **Make them fast.**
-> **Make them reliable.**
-> **Make them secure.**
-> **Then keep improving them.**
-
-</p>
-
-<p align="center">
-  <sub>Built with curiosity, persistence, and a lot of debugging.</sub>
-</p>
-
-<p align="center">
-  <strong>© 2026 Lumichandesu</strong>
+  <strong>🌙 Built with curiosity, persistence, and a lot of debugging.</strong><br />
+  <sub>Thanks for stopping by — Lumi / Lumichandesu 🌸</sub>
 </p>
