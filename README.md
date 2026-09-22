@@ -27,6 +27,7 @@
 <p align="center">
   <a href="#user-content-apps--projects">Apps &amp; projects</a> ·
   <a href="#user-content-about-me">About me</a> ·
+  <a href="#user-content-software--tools">Software &amp; tools</a> ·
   <a href="#user-content-tech-stack">Tech stack</a> ·
   <a href="#user-content-github-activity">GitHub activity</a> ·
   <a href="#user-content-find-me-online">Find me online</a>
@@ -93,6 +94,119 @@ I'm **Lumi (Lumichandesu)**, based in **Bangkok, Thailand**. I enjoy understandi
 - 🎙️ **Creative technology:** streaming tools, translation, AI-assisted workflows, and developer automation.
 
 > Build things that are useful. Make them fast. Make them reliable. Make them secure. Then keep improving them.
+
+## Software & Tools
+
+My toolbox spans software development, networking, creative production, and streaming. Here are the applications I use and explore.
+
+### 💻 Development & IDEs
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vscode.png" width="48" height="48" alt="VS Code" title="VS Code" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/visual-studio.png" width="48" height="48" alt="Visual Studio" title="Visual Studio" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/android-studio.png" width="48" height="48" alt="Android Studio" title="Android Studio" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/cursor.png" width="48" height="48" alt="Cursor" title="Cursor" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/antigravity.png" width="48" height="48" alt="Antigravity" title="Antigravity" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/github-desktop.png" width="48" height="48" alt="GitHub Desktop" title="GitHub Desktop" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/docker.png" width="48" height="48" alt="Docker Desktop" title="Docker Desktop" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />&nbsp;
+</p>
+
+VS Code · Visual Studio · Android Studio · Cursor · Antigravity · GitHub Desktop · Docker Desktop · Git
+
+### 🌐 Networking & Systems
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/packet-tracer.png" width="48" height="48" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/gns3.png" width="48" height="48" alt="GNS3" title="GNS3" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/wireshark.png" width="48" height="48" alt="Wireshark" title="Wireshark" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vmware.png" width="48" height="48" alt="VMware Workstation" title="VMware Workstation" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/putty.png" width="48" height="48" alt="PuTTY" title="PuTTY" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/tera-term.png" width="48" height="48" alt="Tera Term" title="Tera Term" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" title="PowerShell" />&nbsp;
+</p>
+
+Cisco Packet Tracer · GNS3 · Wireshark · VMware Workstation · PuTTY · Tera Term · PowerShell
+
+### 🎨 Design & Photography
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/photoshop.png" width="48" height="48" alt="Photoshop" title="Photoshop" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/illustrator.png" width="48" height="48" alt="Illustrator" title="Illustrator" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/lightroom.png" width="48" height="48" alt="Lightroom Classic" title="Lightroom Classic" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/nx-studio.png" width="48" height="48" alt="Nikon NX Studio" title="Nikon NX Studio" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" />&nbsp;
+</p>
+
+Photoshop · Illustrator · Lightroom Classic · Nikon NX Studio · Figma
+
+### 🎬 Video, Audio & Motion
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/premiere-pro.png" width="48" height="48" alt="Premiere Pro" title="Premiere Pro" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/after-effects.png" width="48" height="48" alt="After Effects" title="After Effects" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/audition.png" width="48" height="48" alt="Audition" title="Audition" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/media-encoder.png" width="48" height="48" alt="Media Encoder" title="Media Encoder" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/obs-studio.png" width="48" height="48" alt="OBS Studio" title="OBS Studio" />&nbsp;
+</p>
+
+Premiere Pro · After Effects · Audition · Media Encoder · OBS Studio
+
+### 🧊 3D & Game Development
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/blender.png" width="48" height="48" alt="Blender" title="Blender" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/cinema-4d.png" width="48" height="48" alt="Cinema 4D" title="Cinema 4D" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/sketchup.png" width="48" height="48" alt="SketchUp" title="SketchUp" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vray.png" width="48" height="48" alt="V-Ray for SketchUp" title="V-Ray for SketchUp" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/unity-hub.png" width="48" height="48" alt="Unity Hub" title="Unity Hub" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/roblox-studio.png" width="48" height="48" alt="Roblox Studio" title="Roblox Studio" />&nbsp;
+</p>
+
+Blender · Cinema 4D · SketchUp · V-Ray for SketchUp · Unity Hub · Roblox Studio
+
+### 🎭 VTuber & Virtual Production
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vtube-studio.png" width="48" height="48" alt="VTube Studio" title="VTube Studio" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vroid-studio.png" width="48" height="48" alt="VRoid Studio" title="VRoid Studio" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vseeface.png" width="48" height="48" alt="VSeeFace" title="VSeeFace" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/prprlive.png" width="48" height="48" alt="PrprLive" title="PrprLive" />&nbsp;
+</p>
+
+VTube Studio · VRoid Studio · VSeeFace · PrprLive
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/codex.png" width="48" height="48" alt="Codex" title="Codex" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/claude.png" width="48" height="48" alt="Claude" title="Claude" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/gemini.png" width="48" height="48" alt="Gemini" title="Gemini" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/ollama.png" width="48" height="48" alt="Ollama" title="Ollama" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/unsloth.png" width="48" height="48" alt="Unsloth Studio" title="Unsloth Studio" />&nbsp;
+</p>
+
+Codex · Claude · Gemini · Ollama · Unsloth Studio
+
+### 📝 Documents & Productivity
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/word.png" width="48" height="48" alt="Word" title="Word" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/excel.png" width="48" height="48" alt="Excel" title="Excel" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/powerpoint.png" width="48" height="48" alt="PowerPoint" title="PowerPoint" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/onenote.png" width="48" height="48" alt="OneNote" title="OneNote" />&nbsp;
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/obsidian.png" width="48" height="48" alt="Obsidian" title="Obsidian" />&nbsp;
+</p>
+
+Word · Excel · PowerPoint · OneNote · Obsidian
+
+### 🔬 Electronics & Simulation
+
+<p>
+  <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/micro-cap.png" width="48" height="48" alt="Micro-Cap" title="Micro-Cap" />&nbsp;
+</p>
+
+Micro-Cap
 
 ## Tech Stack
 
