@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <a href="#apps--projects">Apps &amp; projects</a> ·
-  <a href="#about-me">About me</a> ·
-  <a href="#tech-stack">Tech stack</a> ·
-  <a href="#github-activity">GitHub activity</a> ·
-  <a href="#find-me-online">Find me online</a>
+  <a href="#user-content-apps--projects">Apps &amp; projects</a> ·
+  <a href="#user-content-about-me">About me</a> ·
+  <a href="#user-content-tech-stack">Tech stack</a> ·
+  <a href="#user-content-github-activity">GitHub activity</a> ·
+  <a href="#user-content-find-me-online">Find me online</a>
 </p>
 
 ---
