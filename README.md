@@ -1,10 +1,18 @@
 <div align="center">
 
+<p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/hero-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/hero.svg" width="100%" alt="Lumi · From network packets to creative worlds. Network, code, and create." /></picture></p>
+
 <h1 align="center">🌸 Hi, I'm Lumi</h1>
 
 <p align="center">
   <strong>Founder of Yomumi · Computer Engineering Graduate</strong><br />
   Network &amp; Cloud · Backend Engineering · AI &amp; Creator Tools
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-91D7E3?style=for-the-badge" alt="Based in Bangkok, Thailand" />
+  <img src="https://img.shields.io/badge/Building-Yomumi-F5BDE6?style=for-the-badge&amp;logo=readme&amp;logoColor=181825" alt="Building Yomumi" />
+  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-C6A0F6?style=for-the-badge" alt="Mindset Curiosity %2B Craft" />
 </p>
 
 <p align="center">
@@ -27,15 +35,33 @@
 </p>
 
 <p align="center">
-  <a href="#user-content-apps--projects">Apps &amp; projects</a> ·
-  <a href="#user-content-about-me">About me</a> ·
-  <a href="#user-content-software--tools">Software &amp; tools</a> ·
-  <a href="#user-content-tech-stack">Tech stack</a> ·
-  <a href="#user-content-github-activity">GitHub activity</a> ·
-  <a href="#user-content-find-me-online">Find me online</a>
+  <a href="#creative-universe">Creative universe</a> ·
+  <a href="#apps--projects">Apps &amp; projects</a> ·
+  <a href="#about-me">About me</a> ·
+  <a href="#software--tools">Software &amp; tools</a> ·
+  <a href="#tech-stack">Tech stack</a> ·
+  <a href="#engineering-playbook">Engineering playbook</a> ·
+  <a href="#github-activity">GitHub activity</a> ·
+  <a href="#find-me-online">Find me online</a>
 </p>
 
 <hr />
+
+<h2 align="center">Creative Universe</h2>
+
+<p align="center"><em>Systems that connect. Stories that bring people together. Tools that help creators.</em></p>
+
+<p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/universe-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/universe.svg" width="100%" alt="Three connected worlds: systems and backend, stories and Yomumi, and creative technology." /></picture></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%" valign="top"><h3>🌐 Engineer</h3><p>From routing and Linux to APIs, databases, cloud delivery, and observability.</p><a href="#tech-stack"><strong>Explore the stack →</strong></a></td>
+    <td align="center" width="33%" valign="top"><h3>🌸 Founder</h3><p>Building Yomumi around digital publishing, creative tools, and community.</p><a href="https://www.yomumi.moe/"><strong>Enter Yomumi →</strong></a></td>
+    <td align="center" width="33%" valign="top"><h3>🎙️ Creator</h3><p>Streaming, virtual production, translation, and AI-assisted creative workflows.</p><a href="#find-me-online"><strong>Find my channels →</strong></a></td>
+  </tr>
+</table>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Apps &amp; Projects</h2>
 
@@ -47,6 +73,8 @@
 
 <p align="center"><code>Digital publishing</code> &#183; <code>Creative tools</code> &#183; <code>Community</code> &#183; <code>Creator economy</code></p>
 
+<p align="center"><img src="https://img.shields.io/badge/For-Stories-F5BDE6?style=for-the-badge&amp;logo=readme&amp;logoColor=181825" alt="For Stories" /> <img src="https://img.shields.io/badge/For-Creators-C6A0F6?style=for-the-badge" alt="For Creators" /> <img src="https://img.shields.io/badge/For-Community-91D7E3?style=for-the-badge" alt="For Community" /></p>
+
 <p align="center"><strong><a href="https://www.yomumi.moe/">Visit Yomumi →</a></strong></p>
 
 <p align="center"><sub>Yomumi's source code, architecture, infrastructure, and internal technical specifications are private.</sub></p>
@@ -55,12 +83,16 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎙️ VTuber Subtitle Studio</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Creator_tools-Live_subtitles-F5BDE6?style=for-the-badge" alt="Creator tools Live subtitles" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun" height="36" alt="ts, bun" /></p>
       <p align="center">Live subtitles and translation for VTubers and streamers, with an OBS browser overlay.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>OBS</code> <code>AI</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/vtuber-subtitle-studio"><strong>Explore the studio →</strong></a></p>
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎵 Lumi Discord Bot</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-C6A0F6?style=for-the-badge" alt="Community Music %2B Lyrics" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun,discord" height="36" alt="ts, bun, discord" /></p>
       <p align="center">A Discord music bot with audio playback, queue management, and lyrics for your community.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>Discord</code> <code>Audio</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/lumi-discord-bot"><strong>Meet the bot →</strong></a></p>
@@ -69,12 +101,16 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3 align="center">⚡ Elysia Fast Starter</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Developer_tools-Backend_starter-91D7E3?style=for-the-badge" alt="Developer tools Backend starter" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=bun,elysia,sqlite" height="36" alt="bun, elysia, sqlite" /></p>
       <p align="center">A Bun + Elysia backend starter with authentication, WebSockets, and Drizzle ORM. The public Community Edition uses SQLite.</p>
       <p align="center"><code>Bun</code> <code>Elysia</code> <code>Drizzle</code> <code>SQLite</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/elysia-fast-starter"><strong>Build from the starter →</strong></a></p>
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">✈️ SkyChauffeur</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Application-Fleet_management-A6DA95?style=for-the-badge" alt="Application Fleet management" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,express,mysql" height="36" alt="dart, flutter, express, mysql" /></p>
       <p align="center">An aircraft borrowing and fleet management app with request, approval, and return workflows.</p>
       <p align="center"><code>Dart</code> <code>Flutter</code> <code>Express</code> <code>MySQL</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/plane_borrow"><strong>Explore the app →</strong></a></p>
@@ -85,6 +121,8 @@
 <p align="center">
   <a href="https://github.com/Lumichandesu?tab=repositories"><strong>Browse all public repositories →</strong></a>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">About Me</h2>
 
@@ -97,9 +135,13 @@
 
 <p align="center"><em>Build things that are useful. Make them fast. Make them reliable. Make them secure. Then keep improving them.</em></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
+
 <h2 align="center">Software &amp; Tools</h2>
 
 <p align="center">My toolbox spans software development, networking, creative production, and streaming. Here are the applications I use and explore.</p>
+
+<p align="center"><sub>💻 Development · 🌐 Networks · 🎨 Design · 🎬 Video &amp; audio · 🧊 3D · 🎭 VTubers · 🤖 AI · 📝 Productivity · 🔬 Electronics</sub></p>
 
 <h3 align="center">&#128187; Development &amp; IDEs</h3>
 
@@ -210,6 +252,8 @@
 
 <p align="center">Micro-Cap</p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
+
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
@@ -282,6 +326,33 @@
 
 </details>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
+
+<h2 align="center">Engineering Playbook</h2>
+
+<p align="center">A closer look at the principles behind the code.</p>
+
+<p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/engineering-loop-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/engineering-loop.svg" width="100%" alt="Engineering loop: Measure → Understand → Design → Implement → Test → Observe → Optimize → Harden." /></picture></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top"><h3>🔐 Security by design</h3><p>Validate input, enforce access control, limit abuse, and fail closed.</p><p><code>RBAC</code> · <code>OAuth 2.0</code> · <code>Argon2id</code></p></td>
+    <td align="center" width="50%" valign="top"><h3>⚡ Performance with evidence</h3><p>Measure latency and resource usage, then tune queries, caching, and concurrency.</p><p><code>Indexing</code> · <code>Caching</code> · <code>Observability</code></p></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><h3>🛡️ Reliability in the details</h3><p>Think about consistency, atomic operations, idempotency, and careful failure handling.</p><p><code>ACID</code> · <code>Idempotency</code> · <code>Fail-closed</code></p></td>
+    <td align="center" valign="top"><h3>🎨 Useful tools for people</h3><p>Bring engineering and creative workflows together through publishing, subtitles, and streaming tools.</p><p><code>Creator tools</code> · <code>Community</code> · <code>Automation</code></p></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-With_intent-F5BDE6?style=for-the-badge" alt="Design With intent" />
+  <img src="https://img.shields.io/badge/Build-With_care-C6A0F6?style=for-the-badge" alt="Build With care" />
+  <img src="https://img.shields.io/badge/Improve-With_evidence-91D7E3?style=for-the-badge" alt="Improve With evidence" />
+</p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
+
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
@@ -300,6 +371,8 @@
   <a href="https://github.com/Lumichandesu?tab=repositories">Repositories</a> ·
   <a href="https://github.com/Lumichandesu?tab=stars">Stars &amp; inspiration</a>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Find Me Online</h2>
 
@@ -330,4 +403,9 @@
   <sub>Thanks for stopping by — Lumi / Lumichandesu 🌸</sub>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/footer.svg" width="100%" alt="Every story begins with a dream. Thanks for exploring my little corner of the internet." /></p>
+
+<p align="center"><a href="#-hi-im-lumi">↑ Back to the top</a></p>
+
 </div>
+
