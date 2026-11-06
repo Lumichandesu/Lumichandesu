@@ -217,6 +217,10 @@
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,flutter,elysia,express,fastapi,sqlite,mysql,githubactions,nginx,prometheus,grafana&amp;perline=6" alt="HTML, CSS, Flutter, ElysiaJS, Express, FastAPI, SQLite, MySQL, GitHub Actions, nginx, Prometheus, and Grafana" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Bun-Lover-F5BDE6?style=for-the-badge&amp;logo=bun&amp;logoColor=181825" alt="Bun lover" />
   <img src="https://img.shields.io/badge/Elysia-Lover-C6A0F6?style=for-the-badge" alt="Elysia lover" />
   <img src="https://img.shields.io/badge/Cisco-Networking-91D7E3?style=for-the-badge&amp;logo=cisco&amp;logoColor=181825" alt="Cisco networking" />
