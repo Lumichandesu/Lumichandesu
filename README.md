@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-91D7E3?style=for-the-badge" alt="Based in Bangkok, Thailand" />
   <img src="https://img.shields.io/badge/Building-Yomumi-F5BDE6?style=for-the-badge&amp;logo=readme&amp;logoColor=181825" alt="Building Yomumi" />
-  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-C6A0F6?style=for-the-badge" alt="Mindset Curiosity %2B Craft" />
+  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-C6A0F6?style=for-the-badge" alt="Mindset: Curiosity + Craft" />
 </p>
 
 <p align="center">
@@ -84,15 +84,15 @@
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎙️ VTuber Subtitle Studio</h3>
       <p align="center"><img src="https://img.shields.io/badge/Creator_tools-Live_subtitles-F5BDE6?style=for-the-badge" alt="Creator tools Live subtitles" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun" height="36" alt="ts, bun" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun" height="36" alt="TypeScript and Bun" /></p>
       <p align="center">Live subtitles and translation for VTubers and streamers, with an OBS browser overlay.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>OBS</code> <code>AI</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/vtuber-subtitle-studio"><strong>Explore the studio →</strong></a></p>
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎵 Lumi Discord Bot</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-C6A0F6?style=for-the-badge" alt="Community Music %2B Lyrics" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun,discord" height="36" alt="ts, bun, discord" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-C6A0F6?style=for-the-badge" alt="Community: Music + Lyrics" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun,discord" height="36" alt="TypeScript, Bun, and Discord" /></p>
       <p align="center">A Discord music bot with audio playback, queue management, and lyrics for your community.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>Discord</code> <code>Audio</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/lumi-discord-bot"><strong>Meet the bot →</strong></a></p>
@@ -102,7 +102,7 @@
     <td align="center" width="50%" valign="top">
       <h3 align="center">⚡ Elysia Fast Starter</h3>
       <p align="center"><img src="https://img.shields.io/badge/Developer_tools-Backend_starter-91D7E3?style=for-the-badge" alt="Developer tools Backend starter" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=bun,elysia,sqlite" height="36" alt="bun, elysia, sqlite" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=bun,elysia,sqlite" height="36" alt="Bun, Elysia, and SQLite" /></p>
       <p align="center">A Bun + Elysia backend starter with authentication, WebSockets, and Drizzle ORM. The public Community Edition uses SQLite.</p>
       <p align="center"><code>Bun</code> <code>Elysia</code> <code>Drizzle</code> <code>SQLite</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/elysia-fast-starter"><strong>Build from the starter →</strong></a></p>
@@ -110,7 +110,7 @@
     <td align="center" width="50%" valign="top">
       <h3 align="center">✈️ SkyChauffeur</h3>
       <p align="center"><img src="https://img.shields.io/badge/Application-Fleet_management-A6DA95?style=for-the-badge" alt="Application Fleet management" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,express,mysql" height="36" alt="dart, flutter, express, mysql" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,express,mysql" height="36" alt="Dart, Flutter, Express, and MySQL" /></p>
       <p align="center">An aircraft borrowing and fleet management app with request, approval, and return workflows.</p>
       <p align="center"><code>Dart</code> <code>Flutter</code> <code>Express</code> <code>MySQL</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/plane_borrow"><strong>Explore the app →</strong></a></p>
