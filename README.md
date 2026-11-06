@@ -1,6 +1,6 @@
 <div align="center">
 
-<hr />
+<p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/hero-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/hero.svg" width="100%" alt="Lumi · From network packets to creative worlds. Network, code, and create." /></picture></p>
 
 <h1 align="center">🌸 Hi, I'm Lumi</h1>
 
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-C7DCF2?style=for-the-badge&amp;labelColor=EAF3FA" alt="Based in Bangkok, Thailand" />
-  <img src="https://img.shields.io/badge/Building-Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="Building Yomumi" />
-  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-D6AF77?style=for-the-badge&amp;labelColor=EAF3FA" alt="Mindset: Curiosity + Craft" />
+  <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Based in Bangkok, Thailand" />
+  <img src="https://img.shields.io/badge/Building-Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="Building Yomumi" />
+  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Mindset: Curiosity + Craft" />
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-Visit_my_platform-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="Visit Yomumi" /></a>
-  <a href="https://github.com/Lumichandesu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-D6AF77?style=for-the-badge&amp;logo=github&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="Explore my repositories" /></a>
-  <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-C7DCF2?style=for-the-badge&amp;labelColor=EAF3FA" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-Visit_my_platform-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="Visit Yomumi" /></a>
+  <a href="https://github.com/Lumichandesu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-D6AF77?style=for-the-badge&amp;logo=github&amp;logoColor=231F20&amp;labelColor=231F20" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 
 <p align="center"><em>Systems that connect. Stories that bring people together. Tools that help creators.</em></p>
 
-<hr />
+<p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/universe-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/universe.svg" width="100%" alt="Three connected worlds: systems and backend, stories and Yomumi, and creative technology." /></picture></p>
 
 <table align="center">
   <tr>
@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Apps &amp; Projects</h2>
 
@@ -73,7 +73,7 @@
 
 <p align="center"><code>Digital publishing</code> &#183; <code>Creative tools</code> &#183; <code>Community</code> &#183; <code>Creator economy</code></p>
 
-<p align="center"><img src="https://img.shields.io/badge/For-Stories-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="For Stories" /> <img src="https://img.shields.io/badge/For-Creators-D6AF77?style=for-the-badge&amp;labelColor=EAF3FA" alt="For Creators" /> <img src="https://img.shields.io/badge/For-Community-C7DCF2?style=for-the-badge&amp;labelColor=EAF3FA" alt="For Community" /></p>
+<p align="center"><img src="https://img.shields.io/badge/For-Stories-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="For Stories" /> <img src="https://img.shields.io/badge/For-Creators-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="For Creators" /> <img src="https://img.shields.io/badge/For-Community-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="For Community" /></p>
 
 <p align="center"><strong><a href="https://www.yomumi.moe/">Visit Yomumi →</a></strong></p>
 
@@ -83,16 +83,16 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎙️ VTuber Subtitle Studio</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Creator_tools-Live_subtitles-F8B7CC?style=for-the-badge&amp;labelColor=EAF3FA" alt="Creator tools Live subtitles" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun&amp;theme=light" height="36" alt="TypeScript and Bun" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Creator_tools-Live_subtitles-F8B7CC?style=for-the-badge&amp;labelColor=231F20" alt="Creator tools Live subtitles" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun" height="36" alt="TypeScript and Bun" /></p>
       <p align="center">Live subtitles and translation for VTubers and streamers, with an OBS browser overlay.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>OBS</code> <code>AI</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/vtuber-subtitle-studio"><strong>Explore the studio →</strong></a></p>
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎵 Lumi Discord Bot</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-D6AF77?style=for-the-badge&amp;labelColor=EAF3FA" alt="Community: Music + Lyrics" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun,discord&amp;theme=light" height="36" alt="TypeScript, Bun, and Discord" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Community: Music + Lyrics" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun,discord" height="36" alt="TypeScript, Bun, and Discord" /></p>
       <p align="center">A Discord music bot with audio playback, queue management, and lyrics for your community.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>Discord</code> <code>Audio</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/lumi-discord-bot"><strong>Meet the bot →</strong></a></p>
@@ -101,16 +101,16 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3 align="center">⚡ Elysia Fast Starter</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Developer_tools-Backend_starter-C7DCF2?style=for-the-badge&amp;labelColor=EAF3FA" alt="Developer tools Backend starter" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=bun,elysia,sqlite&amp;theme=light" height="36" alt="Bun, Elysia, and SQLite" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Developer_tools-Backend_starter-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Developer tools Backend starter" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=bun,elysia,sqlite" height="36" alt="Bun, Elysia, and SQLite" /></p>
       <p align="center">A Bun + Elysia backend starter with authentication, WebSockets, and Drizzle ORM. The public Community Edition uses SQLite.</p>
       <p align="center"><code>Bun</code> <code>Elysia</code> <code>Drizzle</code> <code>SQLite</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/elysia-fast-starter"><strong>Build from the starter →</strong></a></p>
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">✈️ SkyChauffeur</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Application-Fleet_management-C8E6D8?style=for-the-badge&amp;labelColor=EAF3FA" alt="Application Fleet management" /></p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,express,mysql&amp;theme=light" height="36" alt="Dart, Flutter, Express, and MySQL" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Application-Fleet_management-C8E6D8?style=for-the-badge&amp;labelColor=231F20" alt="Application Fleet management" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,express,mysql" height="36" alt="Dart, Flutter, Express, and MySQL" /></p>
       <p align="center">An aircraft borrowing and fleet management app with request, approval, and return workflows.</p>
       <p align="center"><code>Dart</code> <code>Flutter</code> <code>Express</code> <code>MySQL</code></p>
       <p align="center"><a href="https://github.com/Lumichandesu/plane_borrow"><strong>Explore the app →</strong></a></p>
@@ -122,7 +122,7 @@
   <a href="https://github.com/Lumichandesu?tab=repositories"><strong>Browse all public repositories →</strong></a>
 </p>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">About Me</h2>
 
@@ -135,7 +135,7 @@
 
 <p align="center"><em>Build things that are useful. Make them fast. Make them reliable. Make them secure. Then keep improving them.</em></p>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Software &amp; Tools</h2>
 
@@ -153,7 +153,7 @@
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/antigravity.png" width="48" height="48" alt="Antigravity" title="Antigravity" />&nbsp;
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/github-desktop.png" width="48" height="48" alt="GitHub Desktop" title="GitHub Desktop" />&nbsp;
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/docker.png" width="48" height="48" alt="Docker Desktop" title="Docker Desktop" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="48" height="48" alt="Git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />&nbsp;
 </p>
 
 <p align="center">VS Code &#183; Visual Studio &#183; Android Studio &#183; Cursor &#183; Antigravity &#183; GitHub Desktop &#183; Docker Desktop &#183; Git</p>
@@ -167,7 +167,7 @@
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/vmware.png" width="48" height="48" alt="VMware Workstation" title="VMware Workstation" />&nbsp;
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/putty.png" width="48" height="48" alt="PuTTY" title="PuTTY" />&nbsp;
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/tera-term.png" width="48" height="48" alt="Tera Term" title="Tera Term" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=powershell&amp;theme=light" width="48" height="48" alt="PowerShell" title="PowerShell" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" title="PowerShell" />&nbsp;
 </p>
 
 <p align="center">Cisco Packet Tracer &#183; GNS3 &#183; Wireshark &#183; VMware Workstation &#183; PuTTY &#183; Tera Term &#183; PowerShell</p>
@@ -179,7 +179,7 @@
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/illustrator.png" width="48" height="48" alt="Illustrator" title="Illustrator" />&nbsp;
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/lightroom.png" width="48" height="48" alt="Lightroom Classic" title="Lightroom Classic" />&nbsp;
   <img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/software/nx-studio.png" width="48" height="48" alt="Nikon NX Studio" title="Nikon NX Studio" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma&amp;theme=light" width="48" height="48" alt="Figma" title="Figma" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" title="Figma" />&nbsp;
 </p>
 
 <p align="center">Photoshop &#183; Illustrator &#183; Lightroom Classic &#183; Nikon NX Studio &#183; Figma</p>
@@ -252,22 +252,22 @@
 
 <p align="center">Micro-Cap</p>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,bun,nodejs,postgres,redis,docker,linux,cloudflare,gcp&amp;perline=6&amp;theme=light" alt="TypeScript, JavaScript, Python, Dart, Bun, Node.js, PostgreSQL, Redis, Docker, Linux, Cloudflare, and Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,bun,nodejs,postgres,redis,docker,linux,cloudflare,gcp&amp;perline=6" alt="TypeScript, JavaScript, Python, Dart, Bun, Node.js, PostgreSQL, Redis, Docker, Linux, Cloudflare, and Google Cloud" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flutter,elysia,express,fastapi,sqlite,mysql,githubactions,nginx,prometheus,grafana&amp;perline=6&amp;theme=light" alt="HTML, CSS, Flutter, ElysiaJS, Express, FastAPI, SQLite, MySQL, GitHub Actions, nginx, Prometheus, and Grafana" />
+  <img src="https://skillicons.dev/icons?i=html,css,flutter,elysia,express,fastapi,sqlite,mysql,githubactions,nginx,prometheus,grafana&amp;perline=6" alt="HTML, CSS, Flutter, ElysiaJS, Express, FastAPI, SQLite, MySQL, GitHub Actions, nginx, Prometheus, and Grafana" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bun-Lover-F8B7CC?style=for-the-badge&amp;logo=bun&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="Bun lover" />
-  <img src="https://img.shields.io/badge/Elysia-Lover-D6AF77?style=for-the-badge&amp;labelColor=EAF3FA" alt="Elysia lover" />
-  <img src="https://img.shields.io/badge/Cisco-Networking-C7DCF2?style=for-the-badge&amp;logo=cisco&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="Cisco networking" />
+  <img src="https://img.shields.io/badge/Bun-Lover-F8B7CC?style=for-the-badge&amp;logo=bun&amp;logoColor=231F20&amp;labelColor=231F20" alt="Bun lover" />
+  <img src="https://img.shields.io/badge/Elysia-Lover-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Elysia lover" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-C7DCF2?style=for-the-badge&amp;logo=cisco&amp;logoColor=231F20&amp;labelColor=231F20" alt="Cisco networking" />
 </p>
 
 <p align="center">My favorite backend combination is <strong>TypeScript + Bun + ElysiaJS</strong>, with a focus on clear APIs, concurrency, efficient resource usage, and observability.</p>
@@ -326,13 +326,13 @@
 
 </details>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Engineering Playbook</h2>
 
 <p align="center">A closer look at the principles behind the code.</p>
 
-<hr />
+<p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/engineering-loop-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/engineering-loop.svg" width="100%" alt="Engineering loop: Measure → Understand → Design → Implement → Test → Observe → Optimize → Harden." /></picture></p>
 
 <table align="center">
   <tr>
@@ -346,24 +346,24 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Design-With_intent-F8B7CC?style=for-the-badge&amp;labelColor=EAF3FA" alt="Design With intent" />
-  <img src="https://img.shields.io/badge/Build-With_care-D6AF77?style=for-the-badge&amp;labelColor=EAF3FA" alt="Build With care" />
-  <img src="https://img.shields.io/badge/Improve-With_evidence-C7DCF2?style=for-the-badge&amp;labelColor=EAF3FA" alt="Improve With evidence" />
+  <img src="https://img.shields.io/badge/Design-With_intent-F8B7CC?style=for-the-badge&amp;labelColor=231F20" alt="Design With intent" />
+  <img src="https://img.shields.io/badge/Build-With_care-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Build With care" />
+  <img src="https://img.shields.io/badge/Improve-With_evidence-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Improve With evidence" />
 </p>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <a href="https://github.com/Lumichandesu?tab=overview">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumichandesu&amp;theme=github" width="700" alt="Lumi's GitHub contribution and profile summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lumichandesu&amp;theme=github_dark" width="700" alt="Lumi's GitHub contribution and profile summary" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lumichandesu&amp;theme=github" width="340" alt="Languages across Lumi's public repositories" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumichandesu&amp;theme=github" width="340" alt="Lumi's GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lumichandesu&amp;theme=github_dark" width="340" alt="Languages across Lumi's public repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lumichandesu&amp;theme=github_dark" width="340" alt="Lumi's GitHub statistics" />
 </p>
 
 <p align="center">
@@ -372,12 +372,12 @@
   <a href="https://github.com/Lumichandesu?tab=stars">Stars &amp; inspiration</a>
 </p>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/divider.svg" width="100%" alt="" /></p>
 
 <h2 align="center">Find Me Online</h2>
 
 <p align="center">
-  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=356F9E&amp;labelColor=EAF3FA" alt="Yomumi website" /></a>
+  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="Yomumi website" /></a>
   <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/Lumichandesu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
   <a href="https://x.com/Lumichandesu"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
@@ -403,7 +403,7 @@
   <sub>Thanks for stopping by — Lumi / Lumichandesu 🌸</sub>
 </p>
 
-<hr />
+<p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/footer.svg" width="100%" alt="Every story begins with a dream. Thanks for exploring my little corner of the internet." /></p>
 
 <p align="center"><a href="#-hi-im-lumi">↑ Back to the top</a></p>
 
