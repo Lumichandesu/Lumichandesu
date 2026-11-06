@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-67A2D8?style=for-the-badge" alt="Based in Bangkok, Thailand" />
-  <img src="https://img.shields.io/badge/Building-Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20" alt="Building Yomumi" />
-  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-D6AF77?style=for-the-badge" alt="Mindset: Curiosity + Craft" />
+  <img src="https://img.shields.io/badge/Based_in-Bangkok,_Thailand-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Based in Bangkok, Thailand" />
+  <img src="https://img.shields.io/badge/Building-Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="Building Yomumi" />
+  <img src="https://img.shields.io/badge/Mindset-Curiosity_%2B_Craft-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Mindset: Curiosity + Craft" />
 </p>
 
 <p align="center">
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-Visit_my_platform-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20" alt="Visit Yomumi" /></a>
-  <a href="https://github.com/Lumichandesu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-D6AF77?style=for-the-badge&amp;logo=github&amp;logoColor=231F20" alt="Explore my repositories" /></a>
-  <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-67A2D8?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-Visit_my_platform-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="Visit Yomumi" /></a>
+  <a href="https://github.com/Lumichandesu?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-D6AF77?style=for-the-badge&amp;logo=github&amp;logoColor=231F20&amp;labelColor=231F20" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
 
 <p align="center"><code>Digital publishing</code> &#183; <code>Creative tools</code> &#183; <code>Community</code> &#183; <code>Creator economy</code></p>
 
-<p align="center"><img src="https://img.shields.io/badge/For-Stories-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20" alt="For Stories" /> <img src="https://img.shields.io/badge/For-Creators-D6AF77?style=for-the-badge" alt="For Creators" /> <img src="https://img.shields.io/badge/For-Community-67A2D8?style=for-the-badge" alt="For Community" /></p>
+<p align="center"><img src="https://img.shields.io/badge/For-Stories-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="For Stories" /> <img src="https://img.shields.io/badge/For-Creators-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="For Creators" /> <img src="https://img.shields.io/badge/For-Community-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="For Community" /></p>
 
 <p align="center"><strong><a href="https://www.yomumi.moe/">Visit Yomumi →</a></strong></p>
 
@@ -83,7 +83,7 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎙️ VTuber Subtitle Studio</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Creator_tools-Live_subtitles-F8B7CC?style=for-the-badge" alt="Creator tools Live subtitles" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Creator_tools-Live_subtitles-F8B7CC?style=for-the-badge&amp;labelColor=231F20" alt="Creator tools Live subtitles" /></p>
       <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun" height="36" alt="TypeScript and Bun" /></p>
       <p align="center">Live subtitles and translation for VTubers and streamers, with an OBS browser overlay.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>OBS</code> <code>AI</code></p>
@@ -91,7 +91,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">🎵 Lumi Discord Bot</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-D6AF77?style=for-the-badge" alt="Community: Music + Lyrics" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Community-Music_%2B_Lyrics-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Community: Music + Lyrics" /></p>
       <p align="center"><img src="https://skillicons.dev/icons?i=ts,bun,discord" height="36" alt="TypeScript, Bun, and Discord" /></p>
       <p align="center">A Discord music bot with audio playback, queue management, and lyrics for your community.</p>
       <p align="center"><code>TypeScript</code> <code>Bun</code> <code>Discord</code> <code>Audio</code></p>
@@ -101,7 +101,7 @@
   <tr>
     <td align="center" width="50%" valign="top">
       <h3 align="center">⚡ Elysia Fast Starter</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Developer_tools-Backend_starter-67A2D8?style=for-the-badge" alt="Developer tools Backend starter" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Developer_tools-Backend_starter-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Developer tools Backend starter" /></p>
       <p align="center"><img src="https://skillicons.dev/icons?i=bun,elysia,sqlite" height="36" alt="Bun, Elysia, and SQLite" /></p>
       <p align="center">A Bun + Elysia backend starter with authentication, WebSockets, and Drizzle ORM. The public Community Edition uses SQLite.</p>
       <p align="center"><code>Bun</code> <code>Elysia</code> <code>Drizzle</code> <code>SQLite</code></p>
@@ -109,7 +109,7 @@
     </td>
     <td align="center" width="50%" valign="top">
       <h3 align="center">✈️ SkyChauffeur</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Application-Fleet_management-C8E6D8?style=for-the-badge" alt="Application Fleet management" /></p>
+      <p align="center"><img src="https://img.shields.io/badge/Application-Fleet_management-C8E6D8?style=for-the-badge&amp;labelColor=231F20" alt="Application Fleet management" /></p>
       <p align="center"><img src="https://skillicons.dev/icons?i=dart,flutter,express,mysql" height="36" alt="Dart, Flutter, Express, and MySQL" /></p>
       <p align="center">An aircraft borrowing and fleet management app with request, approval, and return workflows.</p>
       <p align="center"><code>Dart</code> <code>Flutter</code> <code>Express</code> <code>MySQL</code></p>
@@ -265,9 +265,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bun-Lover-F8B7CC?style=for-the-badge&amp;logo=bun&amp;logoColor=231F20" alt="Bun lover" />
-  <img src="https://img.shields.io/badge/Elysia-Lover-D6AF77?style=for-the-badge" alt="Elysia lover" />
-  <img src="https://img.shields.io/badge/Cisco-Networking-67A2D8?style=for-the-badge&amp;logo=cisco&amp;logoColor=231F20" alt="Cisco networking" />
+  <img src="https://img.shields.io/badge/Bun-Lover-F8B7CC?style=for-the-badge&amp;logo=bun&amp;logoColor=231F20&amp;labelColor=231F20" alt="Bun lover" />
+  <img src="https://img.shields.io/badge/Elysia-Lover-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Elysia lover" />
+  <img src="https://img.shields.io/badge/Cisco-Networking-C7DCF2?style=for-the-badge&amp;logo=cisco&amp;logoColor=231F20&amp;labelColor=231F20" alt="Cisco networking" />
 </p>
 
 <p align="center">My favorite backend combination is <strong>TypeScript + Bun + ElysiaJS</strong>, with a focus on clear APIs, concurrency, efficient resource usage, and observability.</p>
@@ -346,9 +346,9 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Design-With_intent-F8B7CC?style=for-the-badge" alt="Design With intent" />
-  <img src="https://img.shields.io/badge/Build-With_care-D6AF77?style=for-the-badge" alt="Build With care" />
-  <img src="https://img.shields.io/badge/Improve-With_evidence-67A2D8?style=for-the-badge" alt="Improve With evidence" />
+  <img src="https://img.shields.io/badge/Design-With_intent-F8B7CC?style=for-the-badge&amp;labelColor=231F20" alt="Design With intent" />
+  <img src="https://img.shields.io/badge/Build-With_care-D6AF77?style=for-the-badge&amp;labelColor=231F20" alt="Build With care" />
+  <img src="https://img.shields.io/badge/Improve-With_evidence-C7DCF2?style=for-the-badge&amp;labelColor=231F20" alt="Improve With evidence" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/main/assets/profile/divider.svg" width="100%" alt="" /></p>
@@ -377,7 +377,7 @@
 <h2 align="center">Find Me Online</h2>
 
 <p align="center">
-  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20" alt="Yomumi website" /></a>
+  <a href="https://www.yomumi.moe/"><img src="https://img.shields.io/badge/Yomumi-F8B7CC?style=for-the-badge&amp;logo=readme&amp;logoColor=231F20&amp;labelColor=231F20" alt="Yomumi website" /></a>
   <a href="https://www.linkedin.com/in/lumichandesu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/Lumichandesu"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
   <a href="https://x.com/Lumichandesu"><img src="https://img.shields.io/badge/X-181717?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
