@@ -67,6 +67,8 @@
 
 <p align="center">Tools for creators, communities, and developers — plus the platform I&#39;m building.</p>
 
+<p align="center"><strong>Featured open source: <a href="https://github.com/Lumichandesu/yomumi-harness">Yomumi Harness</a></strong><br />Local tools that turn Bun test runs into compact, verifiable evidence for human and AI review. MIT-licensed and separate from the private platform.</p>
+
 <h3 align="center">&#127800; Yomumi &#183; よむみ</h3>
 
 <p align="center"><strong>Founder &amp; CEO</strong> &#183; A digital web novel and creative platform bringing together stories, creators, and community.</p>
@@ -331,6 +333,12 @@
 <h2 align="center">Engineering Playbook</h2>
 
 <p align="center">A closer look at the principles behind the code.</p>
+
+### Engineering in practice
+
+- [Yomumi Harness](https://github.com/Lumichandesu/yomumi-harness): compare matched Bun test runs without forwarding raw assertions or logs. The published example uses real Bun reports from a controlled fixture: the verifier identified one fix and rejected an incorrect file scope. This was a local test, not a production benchmark.
+- [Yomumi Status](https://github.com/Lumichandesu/yomumi-status): independent public availability observations with separate labels for a browser challenge, an unexpected page, an outage, and expired evidence. The status page renders independently of the platform.
+- [VTuber Subtitle Studio](https://github.com/Lumichandesu/vtuber-subtitle-studio): MIT-licensed live captions and translation for OBS in Thai, Japanese, and English.
 
 <p align="center"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/engineering-loop-mobile.svg" /><img src="https://raw.githubusercontent.com/Lumichandesu/Lumichandesu/dd32361e3fa001ac8d5732af7bd5699bc42dcae8/assets/profile/engineering-loop.svg" width="100%" alt="Engineering loop: Measure → Understand → Design → Implement → Test → Observe → Optimize → Harden." /></picture></p>
 
