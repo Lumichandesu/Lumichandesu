@@ -12,7 +12,7 @@ I'm a Thai developer in Bangkok. I build VTuber and streaming tools (live subtit
 
 ### Lumi Discord Bot
 
-[lumi-discord-bot](https://github.com/Lumichandesu/lumi-discord-bot) is a Discord music bot with audio playback, a queue and lyrics. TypeScript and Bun.
+[lumi-discord-bot](https://github.com/Lumichandesu/lumi-discord-bot) is a self-hosted Discord music bot written in Rust (serenity and songbird) with a queue, loop, seek and lyrics.
 
 ### Yomumi
 
@@ -39,7 +39,7 @@ All repositories: [github.com/Lumichandesu?tab=repositories](https://github.com/
 ## What I work with
 
 - Languages: TypeScript, JavaScript, Python, Dart, HTML, CSS
-- Backend: Bun, ElysiaJS, Node.js, REST, WebSocket, SSE
+- Backend: Rust, Bun, ElysiaJS, Node.js, REST, WebSocket, SSE
 - Data: PostgreSQL, Redis, SQLite, Drizzle ORM, Cloudflare R2
 - Cloud and delivery: Google Cloud, Cloud Run, Cloudflare Workers, Docker, GitHub Actions, Linux
 - Networking: Cisco, VLAN and inter-VLAN routing, NAT/PAT, DHCP, DNS, QoS, firewalls
